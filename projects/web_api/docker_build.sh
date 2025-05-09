@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build . -t mineru-api --network host
+docker build . -t momozzing/mineru-api-ko --network host
